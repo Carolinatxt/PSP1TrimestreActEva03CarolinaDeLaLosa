@@ -1,4 +1,4 @@
-# Actividad Evaluable 03B — Simulación Concurrente de Cocina en Restaurante
+# Actividad Evaluable 03 — Simulación Concurrente de Cocina en Restaurante
 
 ## Módulo
 **Programación de Servicios y Procesos (PSP)** — 2º DAM
