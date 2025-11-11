@@ -1,0 +1,351 @@
+🧾 👨‍🍳 Cocinero-1 toma Pedido-1 (Pizza Margarita)
+🧾 👨‍🍳 Cocinero-3 toma Pedido-2 (Ensalada César)
+🧾 👨‍🍳 Cocinero-2 toma Pedido-3 (Pasta Carbonara)
+✅ 👨‍🍳 Cocinero-1 ha completado Pedido-1 (Pizza Margarita)
+🧾 👨‍🍳 Cocinero-1 toma Pedido-4 (Hamburguesa Gourmet)
+✅ 👨‍🍳 Cocinero-3 ha completado Pedido-2 (Ensalada César)
+🧾 👨‍🍳 Cocinero-3 toma Pedido-5 (Tacos de pollo)
+✅ 👨‍🍳 Cocinero-2 ha completado Pedido-3 (Pasta Carbonara)
+🧾 👨‍🍳 Cocinero-2 toma Pedido-6 (Sopa de tomate)
+✅ 👨‍🍳 Cocinero-2 ha completado Pedido-6 (Sopa de tomate)
+✅ 👨‍🍳 Cocinero-1 ha completado Pedido-4 (Hamburguesa Gourmet)
+✅ 👨‍🍳 Cocinero-3 ha completado Pedido-5 (Tacos de pollo)
+Cocinero-1 toma Pedido-1 (Pizza Margarita)
+Cocinero-3 toma Pedido-2 (Ensalada César)
+Cocinero-2 toma Pedido-3 (Pasta Carbonara)
+✅ Cocinero-3 ha completado Pedido-2 (Ensalada César)
+Cocinero-3 toma Pedido-4 (Hamburguesa Gourmet)
+✅ Cocinero-2 ha completado Pedido-3 (Pasta Carbonara)
+Cocinero-2 toma Pedido-5 (Tacos de pollo)
+✅ Cocinero-1 ha completado Pedido-1 (Pizza Margarita)
+Cocinero-1 toma Pedido-6 (Sopa de tomate)
+✅ Cocinero-1 ha completado Pedido-6 (Sopa de tomate)
+✅ Cocinero-3 ha completado Pedido-4 (Hamburguesa Gourmet)
+✅ Cocinero-2 ha completado Pedido-5 (Tacos de pollo)
+Cocinero-1 toma Pedido-1 (Pizza Margarita)
+Cocinero-3 toma Pedido-2 (Ensalada César)
+Cocinero-2 toma Pedido-3 (Pasta Carbonara)
+✅ Cocinero-2 ha completado Pedido-3 (Pasta Carbonara)
+Cocinero-2 toma Pedido-4 (Hamburguesa Gourmet)
+✅ Cocinero-1 ha completado Pedido-1 (Pizza Margarita)
+Cocinero-1 toma Pedido-5 (Tacos de pollo)
+✅ Cocinero-2 ha completado Pedido-4 (Hamburguesa Gourmet)
+Cocinero-2 toma Pedido-6 (Sopa de tomate)
+✅ Cocinero-3 ha completado Pedido-2 (Ensalada César)
+✅ Cocinero-1 ha completado Pedido-5 (Tacos de pollo)
+✅ Cocinero-2 ha completado Pedido-6 (Sopa de tomate)
+Cocinero-1 toma Pedido-1 (Pizza Margarita)
+Cocinero-3 toma Pedido-2 (Ensalada César)
+Cocinero-2 toma Pedido-3 (Pasta Carbonara)
+✅ Cocinero-3 ha completado Pedido-2 (Ensalada César)
+Cocinero-3 toma Pedido-4 (Hamburguesa Gourmet)
+✅ Cocinero-1 ha completado Pedido-1 (Pizza Margarita)
+Cocinero-1 toma Pedido-5 (Tacos de pollo)
+✅ Cocinero-2 ha completado Pedido-3 (Pasta Carbonara)
+Cocinero-2 toma Pedido-6 (Sopa de tomate)
+✅ Cocinero-1 ha completado Pedido-5 (Tacos de pollo)
+✅ Cocinero-3 ha completado Pedido-4 (Hamburguesa Gourmet)
+✅ Cocinero-2 ha completado Pedido-6 (Sopa de tomate)
+👨‍🍳 Cocinero-1 toma Pedido-1 (Croquetas Caseras)
+👨‍🍳 Cocinero-3 toma Pedido-2 (Pulpo a la Gallega)
+👨‍🍳 Cocinero-2 toma Pedido-3 (Gazpacho Andaluz)
+✅ 👨‍🍳 Cocinero-1 ha completado Pedido-1 (Croquetas Caseras)
+👨‍🍳 Cocinero-1 toma Pedido-4 (Gazpacho Andaluz)
+✅ 👨‍🍳 Cocinero-2 ha completado Pedido-3 (Gazpacho Andaluz)
+👨‍🍳 Cocinero-2 toma Pedido-5 (Sushi Variado)
+✅ 👨‍🍳 Cocinero-3 ha completado Pedido-2 (Pulpo a la Gallega)
+👨‍🍳 Cocinero-3 toma Pedido-6 (Pizza Barbacoa)
+✅ 👨‍🍳 Cocinero-1 ha completado Pedido-4 (Gazpacho Andaluz)
+👨‍🍳 Cocinero-1 toma Pedido-7 (Tacos de Pollo)
+✅ 👨‍🍳 Cocinero-3 ha completado Pedido-6 (Pizza Barbacoa)
+👨‍🍳 Cocinero-3 toma Pedido-8 (Filete con Patatas)
+✅ 👨‍🍳 Cocinero-2 ha completado Pedido-5 (Sushi Variado)
+✅ 👨‍🍳 Cocinero-3 ha completado Pedido-8 (Filete con Patatas)
+✅ 👨‍🍳 Cocinero-1 ha completado Pedido-7 (Tacos de Pollo)
+Cocinero-1 toma Pedido-1 (Hamburguesa Doble)
+Cocinero-3 toma Pedido-2 (Sushi Variado)
+Cocinero-2 toma Pedido-3 (Tarta de Queso)
+✅ Cocinero-3 ha completado Pedido-2 (Sushi Variado)
+Cocinero-3 toma Pedido-4 (Ensalada César)
+✅ Cocinero-1 ha completado Pedido-1 (Hamburguesa Doble)
+Cocinero-1 toma Pedido-5 (Costillas BBQ)
+✅ Cocinero-2 ha completado Pedido-3 (Tarta de Queso)
+Cocinero-2 toma Pedido-6 (Sopa de Tomate)
+✅ Cocinero-2 ha completado Pedido-6 (Sopa de Tomate)
+Cocinero-2 toma Pedido-7 (Empanadillas de Atún)
+✅ Cocinero-1 ha completado Pedido-5 (Costillas BBQ)
+Cocinero-1 toma Pedido-8 (Gazpacho Andaluz)
+✅ Cocinero-3 ha completado Pedido-4 (Ensalada César)
+✅ Cocinero-1 ha completado Pedido-8 (Gazpacho Andaluz)
+✅ Cocinero-2 ha completado Pedido-7 (Empanadillas de Atún)
+🧾 👨‍🍳 Cocinero-1 toma Pedido-1 (Arroz con Leche)
+🧾 👨‍🍳 Cocinero-3 toma Pedido-2 (Tacos de Pollo)
+🧾 👨‍🍳 Cocinero-2 toma Pedido-3 (Costillas BBQ)
+✅ 👨‍🍳 Cocinero-3 ha completado Pedido-2 (Tacos de Pollo)
+🧾 👨‍🍳 Cocinero-3 toma Pedido-4 (Costillas BBQ)
+✅ 👨‍🍳 Cocinero-2 ha completado Pedido-3 (Costillas BBQ)
+🧾 👨‍🍳 Cocinero-2 toma Pedido-5 (Pizza Margarita)
+✅ 👨‍🍳 Cocinero-1 ha completado Pedido-1 (Arroz con Leche)
+🧾 👨‍🍳 Cocinero-1 toma Pedido-6 (Pasta Carbonara)
+✅ 👨‍🍳 Cocinero-3 ha completado Pedido-4 (Costillas BBQ)
+🧾 👨‍🍳 Cocinero-3 toma Pedido-7 (Pizza Barbacoa)
+✅ 👨‍🍳 Cocinero-2 ha completado Pedido-5 (Pizza Margarita)
+🧾 👨‍🍳 Cocinero-2 toma Pedido-8 (Costillas BBQ)
+✅ 👨‍🍳 Cocinero-3 ha completado Pedido-7 (Pizza Barbacoa)
+✅ 👨‍🍳 Cocinero-1 ha completado Pedido-6 (Pasta Carbonara)
+✅ 👨‍🍳 Cocinero-2 ha completado Pedido-8 (Costillas BBQ)
+🧾 👨‍🍳 Cocinero-1 toma Pedido-1 (Canelones de Espinacas)
+🧾 👨‍🍳 Cocinero-2 toma Pedido-2 (Lasaña Boloñesa)
+🧾 👨‍🍳 Cocinero-3 toma Pedido-3 (Costillas BBQ)
+✅ 👨‍🍳 Cocinero-2 ha completado Pedido-2 (Lasaña Boloñesa)
+🧾 👨‍🍳 Cocinero-2 toma Pedido-4 (Burritos de Ternera)
+✅ 👨‍🍳 Cocinero-1 ha completado Pedido-1 (Canelones de Espinacas)
+🧾 👨‍🍳 Cocinero-1 toma Pedido-5 (Lasaña Boloñesa)
+✅ 👨‍🍳 Cocinero-3 ha completado Pedido-3 (Costillas BBQ)
+🧾 👨‍🍳 Cocinero-3 toma Pedido-6 (Empanadillas de Atún)
+✅ 👨‍🍳 Cocinero-2 ha completado Pedido-4 (Burritos de Ternera)
+✅ 👨‍🍳 Cocinero-1 ha completado Pedido-5 (Lasaña Boloñesa)
+✅ 👨‍🍳 Cocinero-3 ha completado Pedido-6 (Empanadillas de Atún)
+🧾 👨‍🍳 Cocinero-1 recibe Pedido-1 (Pizza Barbacoa)
+🧾 👨‍🍳 Cocinero-5 recibe Pedido-2 (Tarta de Queso)
+👨‍🍳 👨‍🍳 Cocinero-1 está preparando Pedido-1 (Pizza Barbacoa)...
+👨‍🍳 👨‍🍳 Cocinero-5 está preparando Pedido-2 (Tarta de Queso)...
+🧾 👨‍🍳 Cocinero-4 recibe Pedido-3 (Ensalada César)
+👨‍🍳 👨‍🍳 Cocinero-4 está preparando Pedido-3 (Ensalada César)...
+🧾 👨‍🍳 Cocinero-3 recibe Pedido-4 (Tarta de Queso)
+👨‍🍳 👨‍🍳 Cocinero-3 está preparando Pedido-4 (Tarta de Queso)...
+🧾 👨‍🍳 Cocinero-2 recibe Pedido-5 (Gazpacho Andaluz)
+👨‍🍳 👨‍🍳 Cocinero-2 está preparando Pedido-5 (Gazpacho Andaluz)...
+✅ 👨‍🍳 Cocinero-4 ha completado Pedido-3 (Ensalada César)
+🧾 👨‍🍳 Cocinero-4 recibe Pedido-6 (Tacos de Pollo)
+👨‍🍳 👨‍🍳 Cocinero-4 está preparando Pedido-6 (Tacos de Pollo)...
+✅ 👨‍🍳 Cocinero-2 ha completado Pedido-5 (Gazpacho Andaluz)
+🧾 👨‍🍳 Cocinero-2 recibe Pedido-7 (Raviolis de Queso)
+👨‍🍳 👨‍🍳 Cocinero-2 está preparando Pedido-7 (Raviolis de Queso)...
+✅ 👨‍🍳 Cocinero-1 ha completado Pedido-1 (Pizza Barbacoa)
+🧾 👨‍🍳 Cocinero-1 recibe Pedido-8 (Pasta Carbonara)
+👨‍🍳 👨‍🍳 Cocinero-1 está preparando Pedido-8 (Pasta Carbonara)...
+✅ 👨‍🍳 Cocinero-5 ha completado Pedido-2 (Tarta de Queso)
+✅ 👨‍🍳 Cocinero-3 ha completado Pedido-4 (Tarta de Queso)
+✅ 👨‍🍳 Cocinero-4 ha completado Pedido-6 (Tacos de Pollo)
+✅ 👨‍🍳 Cocinero-1 ha completado Pedido-8 (Pasta Carbonara)
+✅ 👨‍🍳 Cocinero-2 ha completado Pedido-7 (Raviolis de Queso)
+[2025-10-22 14:36:49] 🧾 👨‍🍳 Cocinero-1 recibe Pedido-1 (Costillas BBQ)
+[2025-10-22 14:36:49] 🧾 👨‍🍳 Cocinero-5 recibe Pedido-2 (Pollo al Curry)
+[2025-10-22 14:36:49] 👨‍🍳 👨‍🍳 Cocinero-1 está preparando Pedido-1 (Costillas BBQ)...
+[2025-10-22 14:36:49] 👨‍🍳 👨‍🍳 Cocinero-5 está preparando Pedido-2 (Pollo al Curry)...
+[2025-10-22 14:36:49] 🧾 👨‍🍳 Cocinero-4 recibe Pedido-3 (Pulpo a la Gallega)
+[2025-10-22 14:36:49] 👨‍🍳 👨‍🍳 Cocinero-4 está preparando Pedido-3 (Pulpo a la Gallega)...
+[2025-10-22 14:36:49] 🧾 👨‍🍳 Cocinero-3 recibe Pedido-4 (Burritos de Ternera)
+[2025-10-22 14:36:49] 👨‍🍳 👨‍🍳 Cocinero-3 está preparando Pedido-4 (Burritos de Ternera)...
+[2025-10-22 14:36:49] 🧾 👨‍🍳 Cocinero-2 recibe Pedido-5 (Lasaña Boloñesa)
+[2025-10-22 14:36:49] 👨‍🍳 👨‍🍳 Cocinero-2 está preparando Pedido-5 (Lasaña Boloñesa)...
+[2025-10-22 14:36:51] ✅ 👨‍🍳 Cocinero-4 ha completado Pedido-3 (Pulpo a la Gallega)
+[2025-10-22 14:36:51] 🧾 👨‍🍳 Cocinero-4 recibe Pedido-6 (Gazpacho Andaluz)
+[2025-10-22 14:36:51] 👨‍🍳 👨‍🍳 Cocinero-4 está preparando Pedido-6 (Gazpacho Andaluz)...
+[2025-10-22 14:36:51] ✅ 👨‍🍳 Cocinero-3 ha completado Pedido-4 (Burritos de Ternera)
+[2025-10-22 14:36:51] ✅ 👨‍🍳 Cocinero-1 ha completado Pedido-1 (Costillas BBQ)
+[2025-10-22 14:36:51] ✅ 👨‍🍳 Cocinero-5 ha completado Pedido-2 (Pollo al Curry)
+[2025-10-22 14:36:52] ✅ 👨‍🍳 Cocinero-2 ha completado Pedido-5 (Lasaña Boloñesa)
+[2025-10-22 14:36:54] ✅ 👨‍🍳 Cocinero-4 ha completado Pedido-6 (Gazpacho Andaluz)
+[2025-10-22 14:36:59] 🧾 👨‍🍳 Cocinero-1 recibe Pedido-1 (Ensalada César)
+[2025-10-22 14:36:59] 🧾 👨‍🍳 Cocinero-5 recibe Pedido-2 (Pulpo a la Gallega)
+[2025-10-22 14:36:59] 👨‍🍳 👨‍🍳 Cocinero-1 está preparando Pedido-1 (Ensalada César)...
+[2025-10-22 14:36:59] 👨‍🍳 👨‍🍳 Cocinero-5 está preparando Pedido-2 (Pulpo a la Gallega)...
+[2025-10-22 14:36:59] 🧾 👨‍🍳 Cocinero-4 recibe Pedido-3 (Tarta de Queso)
+[2025-10-22 14:36:59] 👨‍🍳 👨‍🍳 Cocinero-4 está preparando Pedido-3 (Tarta de Queso)...
+[2025-10-22 14:36:59] 🧾 👨‍🍳 Cocinero-3 recibe Pedido-4 (Ensalada César)
+[2025-10-22 14:36:59] 👨‍🍳 👨‍🍳 Cocinero-3 está preparando Pedido-4 (Ensalada César)...
+[2025-10-22 14:36:59] 🧾 👨‍🍳 Cocinero-2 recibe Pedido-5 (Hamburguesa Doble)
+[2025-10-22 14:36:59] 👨‍🍳 👨‍🍳 Cocinero-2 está preparando Pedido-5 (Hamburguesa Doble)...
+[2025-10-22 14:37:01] ✅ 👨‍🍳 Cocinero-5 ha completado Pedido-2 (Pulpo a la Gallega)
+[2025-10-22 14:37:01] 🧾 👨‍🍳 Cocinero-5 recibe Pedido-6 (Tallarines con Marisco)
+[2025-10-22 14:37:01] 👨‍🍳 👨‍🍳 Cocinero-5 está preparando Pedido-6 (Tallarines con Marisco)...
+[2025-10-22 14:37:02] ✅ 👨‍🍳 Cocinero-1 ha completado Pedido-1 (Ensalada César)
+[2025-10-22 14:37:02] 🧾 👨‍🍳 Cocinero-1 recibe Pedido-7 (Tarta de Queso)
+[2025-10-22 14:37:02] 👨‍🍳 👨‍🍳 Cocinero-1 está preparando Pedido-7 (Tarta de Queso)...
+[2025-10-22 14:37:02] ✅ 👨‍🍳 Cocinero-2 ha completado Pedido-5 (Hamburguesa Doble)
+[2025-10-22 14:37:02] 🧾 👨‍🍳 Cocinero-2 recibe Pedido-8 (Pulpo a la Gallega)
+[2025-10-22 14:37:02] 👨‍🍳 👨‍🍳 Cocinero-2 está preparando Pedido-8 (Pulpo a la Gallega)...
+[2025-10-22 14:37:02] ✅ 👨‍🍳 Cocinero-3 ha completado Pedido-4 (Ensalada César)
+[2025-10-22 14:37:02] ✅ 👨‍🍳 Cocinero-4 ha completado Pedido-3 (Tarta de Queso)
+[2025-10-22 14:37:03] ✅ 👨‍🍳 Cocinero-1 ha completado Pedido-7 (Tarta de Queso)
+[2025-10-22 14:37:03] ✅ 👨‍🍳 Cocinero-5 ha completado Pedido-6 (Tallarines con Marisco)
+[2025-10-22 14:37:04] ✅ 👨‍🍳 Cocinero-2 ha completado Pedido-8 (Pulpo a la Gallega)
+[2025-10-22 21:36:12] [Cocinero-2] recibe Pedido-1 (Canelones de Espinacas)
+[2025-10-22 21:36:12] [Cocinero-2] está preparando Pedido-1 (Canelones de Espinacas)...
+[2025-10-22 21:36:12] [Cocinero-5] recibe Pedido-2 (Sushi Variado)
+[2025-10-22 21:36:12] [Cocinero-5] está preparando Pedido-2 (Sushi Variado)...
+[2025-10-22 21:36:12] [Cocinero-4] recibe Pedido-3 (Tallarines con Marisco)
+[2025-10-22 21:36:12] [Cocinero-4] está preparando Pedido-3 (Tallarines con Marisco)...
+[2025-10-22 21:36:12] [Cocinero-1] recibe Pedido-4 (Canelones de Espinacas)
+[2025-10-22 21:36:12] [Cocinero-1] está preparando Pedido-4 (Canelones de Espinacas)...
+[2025-10-22 21:36:12] [Cocinero-3] recibe Pedido-5 (Lasaña Boloñesa)
+[2025-10-22 21:36:12] [Cocinero-3] está preparando Pedido-5 (Lasaña Boloñesa)...
+[2025-10-22 21:36:15] ✅ Cocinero-2 ha completado Pedido-1 (Canelones de Espinacas)
+[2025-10-22 21:36:15] [Cocinero-2] recibe Pedido-6 (Lasaña Boloñesa)
+[2025-10-22 21:36:15] [Cocinero-2] está preparando Pedido-6 (Lasaña Boloñesa)...
+[2025-10-22 21:36:16] ✅ Cocinero-4 ha completado Pedido-3 (Tallarines con Marisco)
+[2025-10-22 21:36:16] [Cocinero-4] recibe Pedido-7 (Costillas BBQ)
+[2025-10-22 21:36:16] [Cocinero-4] está preparando Pedido-7 (Costillas BBQ)...
+[2025-10-22 21:36:16] ✅ Cocinero-1 ha completado Pedido-4 (Canelones de Espinacas)
+[2025-10-22 21:36:16] ✅ Cocinero-5 ha completado Pedido-2 (Sushi Variado)
+[2025-10-22 21:36:17] ✅ Cocinero-3 ha completado Pedido-5 (Lasaña Boloñesa)
+[2025-10-22 21:36:18] ✅ Cocinero-4 ha completado Pedido-7 (Costillas BBQ)
+[2025-10-22 21:36:21] ✅ Cocinero-2 ha completado Pedido-6 (Lasaña Boloñesa)
+[2025-10-22 23:18:56] [Cocinero 1] recibe Pedido-1 (Ensalada César)
+[2025-10-22 23:18:56] [Cocinero 1] está preparando Pedido-1 (Ensalada César)...
+[2025-10-22 23:18:56] [Cocinero 5] recibe Pedido-2 (Huevos Rotos con Jamón)
+[2025-10-22 23:18:56] [Cocinero 5] está preparando Pedido-2 (Huevos Rotos con Jamón)...
+[2025-10-22 23:18:56] [Cocinero 4] recibe Pedido-3 (Pulpo a la Gallega)
+[2025-10-22 23:18:56] [Cocinero 4] está preparando Pedido-3 (Pulpo a la Gallega)...
+[2025-10-22 23:18:56] [Cocinero 3] recibe Pedido-4 (Sushi Variado)
+[2025-10-22 23:18:56] [Cocinero 3] está preparando Pedido-4 (Sushi Variado)...
+[2025-10-22 23:18:56] [Cocinero 2] recibe Pedido-5 (Sushi Variado)
+[2025-10-22 23:18:56] [Cocinero 2] está preparando Pedido-5 (Sushi Variado)...
+[2025-10-22 23:18:58] ✅ Cocinero 3 ha completado Pedido-4 (Sushi Variado)
+[2025-10-22 23:18:58] [Cocinero 3] recibe Pedido-6 (Sopa de Tomate)
+[2025-10-22 23:18:58] [Cocinero 3] está preparando Pedido-6 (Sopa de Tomate)...
+[2025-10-22 23:18:58] ✅ Cocinero 5 ha completado Pedido-2 (Huevos Rotos con Jamón)
+[2025-10-22 23:18:58] [Cocinero 5] recibe Pedido-7 (Ensalada César)
+[2025-10-22 23:18:58] [Cocinero 5] está preparando Pedido-7 (Ensalada César)...
+[2025-10-22 23:18:58] ✅ Cocinero 2 ha completado Pedido-5 (Sushi Variado)
+[2025-10-22 23:18:58] [Cocinero 2] recibe Pedido-8 (Lasaña Boloñesa)
+[2025-10-22 23:18:58] [Cocinero 2] está preparando Pedido-8 (Lasaña Boloñesa)...
+[2025-10-22 23:18:59] ✅ Cocinero 4 ha completado Pedido-3 (Pulpo a la Gallega)
+[2025-10-22 23:18:59] [Cocinero 4] recibe Pedido-9 (Arroz con Leche)
+[2025-10-22 23:18:59] [Cocinero 4] está preparando Pedido-9 (Arroz con Leche)...
+[2025-10-22 23:18:59] ✅ Cocinero 1 ha completado Pedido-1 (Ensalada César)
+[2025-10-22 23:18:59] [Cocinero 1] recibe Pedido-10 (Empanadillas de Atún)
+[2025-10-22 23:18:59] [Cocinero 1] está preparando Pedido-10 (Empanadillas de Atún)...
+[2025-10-22 23:19:00] ✅ Cocinero 5 ha completado Pedido-7 (Ensalada César)
+[2025-10-22 23:19:02] ✅ Cocinero 3 ha completado Pedido-6 (Sopa de Tomate)
+[2025-10-22 23:19:02] ✅ Cocinero 1 ha completado Pedido-10 (Empanadillas de Atún)
+[2025-10-22 23:19:04] ✅ Cocinero 2 ha completado Pedido-8 (Lasaña Boloñesa)
+[2025-10-22 23:19:04] ✅ Cocinero 4 ha completado Pedido-9 (Arroz con Leche)
+[2025-10-22 23:19:45] [Cocinero 1] recibe Pedido-1 (Lasaña Boloñesa)
+[2025-10-22 23:19:45] [Cocinero 1] está preparando Pedido-1 (Lasaña Boloñesa)...
+[2025-10-22 23:19:45] [Cocinero 4] recibe Pedido-2 (Tacos de Pollo)
+[2025-10-22 23:19:45] [Cocinero 4] está preparando Pedido-2 (Tacos de Pollo)...
+[2025-10-22 23:19:45] [Cocinero 3] recibe Pedido-3 (Pulpo a la Gallega)
+[2025-10-22 23:19:45] [Cocinero 3] está preparando Pedido-3 (Pulpo a la Gallega)...
+[2025-10-22 23:19:45] [Cocinero 2] recibe Pedido-4 (Pollo al Curry)
+[2025-10-22 23:19:45] [Cocinero 2] está preparando Pedido-4 (Pollo al Curry)...
+[2025-10-22 23:19:48] ✅ Cocinero 4 ha completado Pedido-2 (Tacos de Pollo)
+[2025-10-22 23:19:48] [Cocinero 4] recibe Pedido-5 (Paella Mixta)
+[2025-10-22 23:19:48] [Cocinero 4] está preparando Pedido-5 (Paella Mixta)...
+[2025-10-22 23:19:49] ✅ Cocinero 3 ha completado Pedido-3 (Pulpo a la Gallega)
+[2025-10-22 23:19:49] [Cocinero 3] recibe Pedido-6 (Arroz con Leche)
+[2025-10-22 23:19:49] [Cocinero 3] está preparando Pedido-6 (Arroz con Leche)...
+[2025-10-22 23:19:51] ✅ Cocinero 4 ha completado Pedido-5 (Paella Mixta)
+[2025-10-22 23:19:51] [Cocinero 4] recibe Pedido-7 (Gazpacho Andaluz)
+[2025-10-22 23:19:51] [Cocinero 4] está preparando Pedido-7 (Gazpacho Andaluz)...
+[2025-10-22 23:19:51] ✅ Cocinero 1 ha completado Pedido-1 (Lasaña Boloñesa)
+[2025-10-22 23:19:51] ✅ Cocinero 2 ha completado Pedido-4 (Pollo al Curry)
+[2025-10-22 23:19:53] ✅ Cocinero 4 ha completado Pedido-7 (Gazpacho Andaluz)
+[2025-10-22 23:19:53] ✅ Cocinero 3 ha completado Pedido-6 (Arroz con Leche)
+[2025-10-22 23:19:57] [Cocinero 1] recibe Pedido-1 (Ensalada César)
+[2025-10-22 23:19:57] [Cocinero 1] está preparando Pedido-1 (Ensalada César)...
+[2025-10-22 23:19:57] [Cocinero 4] recibe Pedido-2 (Raviolis de Queso)
+[2025-10-22 23:19:57] [Cocinero 4] está preparando Pedido-2 (Raviolis de Queso)...
+[2025-10-22 23:19:57] [Cocinero 3] recibe Pedido-3 (Pulpo a la Gallega)
+[2025-10-22 23:19:57] [Cocinero 3] está preparando Pedido-3 (Pulpo a la Gallega)...
+[2025-10-22 23:19:57] [Cocinero 2] recibe Pedido-4 (Empanadillas de Atún)
+[2025-10-22 23:19:57] [Cocinero 2] está preparando Pedido-4 (Empanadillas de Atún)...
+[2025-10-22 23:20:00] ✅ Cocinero 1 ha completado Pedido-1 (Ensalada César)
+[2025-10-22 23:20:00] [Cocinero 1] recibe Pedido-5 (Ensalada César)
+[2025-10-22 23:20:00] [Cocinero 1] está preparando Pedido-5 (Ensalada César)...
+[2025-10-22 23:20:00] ✅ Cocinero 3 ha completado Pedido-3 (Pulpo a la Gallega)
+[2025-10-22 23:20:00] [Cocinero 3] recibe Pedido-6 (Pollo al Curry)
+[2025-10-22 23:20:00] [Cocinero 3] está preparando Pedido-6 (Pollo al Curry)...
+[2025-10-22 23:20:02] ✅ Cocinero 2 ha completado Pedido-4 (Empanadillas de Atún)
+[2025-10-22 23:20:02] [Cocinero 2] recibe Pedido-7 (Canelones de Espinacas)
+[2025-10-22 23:20:02] [Cocinero 2] está preparando Pedido-7 (Canelones de Espinacas)...
+[2025-10-22 23:20:03] ✅ Cocinero 1 ha completado Pedido-5 (Ensalada César)
+[2025-10-22 23:20:03] [Cocinero 1] recibe Pedido-8 (Pulpo a la Gallega)
+[2025-10-22 23:20:03] [Cocinero 1] está preparando Pedido-8 (Pulpo a la Gallega)...
+[2025-10-22 23:20:03] ✅ Cocinero 4 ha completado Pedido-2 (Raviolis de Queso)
+[2025-10-22 23:20:03] [Cocinero 4] recibe Pedido-9 (Croquetas Caseras)
+[2025-10-22 23:20:03] [Cocinero 4] está preparando Pedido-9 (Croquetas Caseras)...
+[2025-10-22 23:20:03] ✅ Cocinero 3 ha completado Pedido-6 (Pollo al Curry)
+[2025-10-22 23:20:03] [Cocinero 3] recibe Pedido-10 (Filete con Patatas)
+[2025-10-22 23:20:03] [Cocinero 3] está preparando Pedido-10 (Filete con Patatas)...
+[2025-10-22 23:20:06] ✅ Cocinero 3 ha completado Pedido-10 (Filete con Patatas)
+[2025-10-22 23:20:07] ✅ Cocinero 4 ha completado Pedido-9 (Croquetas Caseras)
+[2025-10-22 23:20:07] ✅ Cocinero 2 ha completado Pedido-7 (Canelones de Espinacas)
+[2025-10-22 23:20:08] ✅ Cocinero 1 ha completado Pedido-8 (Pulpo a la Gallega)
+[2025-10-22 23:20:57] [Cocinero 1] recibe Pedido-1 (Costillas BBQ)
+[2025-10-22 23:20:57] [Cocinero 1] está preparando Pedido-1 (Costillas BBQ)...
+[2025-10-22 23:20:57] [Cocinero 4] recibe Pedido-2 (Paella Mixta)
+[2025-10-22 23:20:57] [Cocinero 4] está preparando Pedido-2 (Paella Mixta)...
+[2025-10-22 23:20:57] [Cocinero 3] recibe Pedido-3 (Empanadillas de Atún)
+[2025-10-22 23:20:57] [Cocinero 3] está preparando Pedido-3 (Empanadillas de Atún)...
+[2025-10-22 23:20:57] [Cocinero 2] recibe Pedido-4 (Pasta Carbonara)
+[2025-10-22 23:20:57] [Cocinero 2] está preparando Pedido-4 (Pasta Carbonara)...
+[2025-10-22 23:21:02] ✅ Cocinero 2 ha completado Pedido-4 (Pasta Carbonara)
+[2025-10-22 23:21:02] [Cocinero 2] recibe Pedido-5 (Pizza Margarita)
+[2025-10-22 23:21:02] [Cocinero 2] está preparando Pedido-5 (Pizza Margarita)...
+[2025-10-22 23:21:02] ✅ Cocinero 1 ha completado Pedido-1 (Costillas BBQ)
+[2025-10-22 23:21:02] [Cocinero 1] recibe Pedido-6 (Canelones de Espinacas)
+[2025-10-22 23:21:02] [Cocinero 1] está preparando Pedido-6 (Canelones de Espinacas)...
+[2025-10-22 23:21:02] ✅ Cocinero 4 ha completado Pedido-2 (Paella Mixta)
+[2025-10-22 23:21:02] [Cocinero 4] recibe Pedido-7 (Sushi Variado)
+[2025-10-22 23:21:02] [Cocinero 4] está preparando Pedido-7 (Sushi Variado)...
+[2025-10-22 23:21:04] ✅ Cocinero 3 ha completado Pedido-3 (Empanadillas de Atún)
+[2025-10-22 23:21:04] [Cocinero 3] recibe Pedido-8 (Pizza Margarita)
+[2025-10-22 23:21:04] [Cocinero 3] está preparando Pedido-8 (Pizza Margarita)...
+[2025-10-22 23:21:07] ✅ Cocinero 1 ha completado Pedido-6 (Canelones de Espinacas)
+[2025-10-22 23:21:07] ✅ Cocinero 3 ha completado Pedido-8 (Pizza Margarita)
+[2025-10-22 23:21:08] ✅ Cocinero 2 ha completado Pedido-5 (Pizza Margarita)
+[2025-10-22 23:21:10] ✅ Cocinero 4 ha completado Pedido-7 (Sushi Variado)
+[2025-10-22 23:21:18] [Cocinero 1] recibe Pedido-1 (Pollo al Curry)
+[2025-10-22 23:21:18] [Cocinero 1] está preparando Pedido-1 (Pollo al Curry)...
+[2025-10-22 23:21:18] [Cocinero 3] recibe Pedido-2 (Tarta de Queso)
+[2025-10-22 23:21:18] [Cocinero 3] está preparando Pedido-2 (Tarta de Queso)...
+[2025-10-22 23:21:18] [Cocinero 2] recibe Pedido-3 (Canelones de Espinacas)
+[2025-10-22 23:21:18] [Cocinero 2] está preparando Pedido-3 (Canelones de Espinacas)...
+[2025-10-22 23:21:22] ✅ Cocinero 1 ha completado Pedido-1 (Pollo al Curry)
+[2025-10-22 23:21:22] [Cocinero 1] recibe Pedido-4 (Paella de Verduras)
+[2025-10-22 23:21:22] [Cocinero 1] está preparando Pedido-4 (Paella de Verduras)...
+[2025-10-22 23:21:23] ✅ Cocinero 3 ha completado Pedido-2 (Tarta de Queso)
+[2025-10-22 23:21:23] [Cocinero 3] recibe Pedido-5 (Hamburguesa Doble)
+[2025-10-22 23:21:23] [Cocinero 3] está preparando Pedido-5 (Hamburguesa Doble)...
+[2025-10-22 23:21:26] ✅ Cocinero 2 ha completado Pedido-3 (Canelones de Espinacas)
+[2025-10-22 23:21:26] [Cocinero 2] recibe Pedido-6 (Arroz con Leche)
+[2025-10-22 23:21:26] [Cocinero 2] está preparando Pedido-6 (Arroz con Leche)...
+[2025-10-22 23:21:27] ✅ Cocinero 3 ha completado Pedido-5 (Hamburguesa Doble)
+[2025-10-22 23:21:27] [Cocinero 3] recibe Pedido-7 (Lasaña Boloñesa)
+[2025-10-22 23:21:27] [Cocinero 3] está preparando Pedido-7 (Lasaña Boloñesa)...
+[2025-10-22 23:21:30] ✅ Cocinero 1 ha completado Pedido-4 (Paella de Verduras)
+[2025-10-22 23:21:30] [Cocinero 1] recibe Pedido-8 (Hamburguesa Doble)
+[2025-10-22 23:21:30] [Cocinero 1] está preparando Pedido-8 (Hamburguesa Doble)...
+[2025-10-22 23:21:30] ✅ Cocinero 2 ha completado Pedido-6 (Arroz con Leche)
+[2025-10-22 23:21:34] ✅ Cocinero 3 ha completado Pedido-7 (Lasaña Boloñesa)
+[2025-10-22 23:21:37] ✅ Cocinero 1 ha completado Pedido-8 (Hamburguesa Doble)
+[2025-10-22 23:21:38] [Cocinero 1] recibe Pedido-1 (Hamburguesa Doble)
+[2025-10-22 23:21:38] [Cocinero 1] está preparando Pedido-1 (Hamburguesa Doble)...
+[2025-10-22 23:21:38] [Cocinero 5] recibe Pedido-2 (Huevos Rotos con Jamón)
+[2025-10-22 23:21:38] [Cocinero 5] está preparando Pedido-2 (Huevos Rotos con Jamón)...
+[2025-10-22 23:21:38] [Cocinero 4] recibe Pedido-3 (Pizza Barbacoa)
+[2025-10-22 23:21:38] [Cocinero 4] está preparando Pedido-3 (Pizza Barbacoa)...
+[2025-10-22 23:21:38] [Cocinero 3] recibe Pedido-4 (Tarta de Queso)
+[2025-10-22 23:21:38] [Cocinero 3] está preparando Pedido-4 (Tarta de Queso)...
+[2025-10-22 23:21:38] [Cocinero 2] recibe Pedido-5 (Burritos de Ternera)
+[2025-10-22 23:21:38] [Cocinero 2] está preparando Pedido-5 (Burritos de Ternera)...
+[2025-10-22 23:21:43] ✅ Cocinero 3 ha completado Pedido-4 (Tarta de Queso)
+[2025-10-22 23:21:43] [Cocinero 3] recibe Pedido-6 (Pizza Barbacoa)
+[2025-10-22 23:21:43] [Cocinero 3] está preparando Pedido-6 (Pizza Barbacoa)...
+[2025-10-22 23:21:43] ✅ Cocinero 4 ha completado Pedido-3 (Pizza Barbacoa)
+[2025-10-22 23:21:43] [Cocinero 4] recibe Pedido-7 (Lasaña Boloñesa)
+[2025-10-22 23:21:43] [Cocinero 4] está preparando Pedido-7 (Lasaña Boloñesa)...
+[2025-10-22 23:21:44] ✅ Cocinero 1 ha completado Pedido-1 (Hamburguesa Doble)
+[2025-10-22 23:21:44] [Cocinero 1] recibe Pedido-8 (Lasaña Boloñesa)
+[2025-10-22 23:21:44] [Cocinero 1] está preparando Pedido-8 (Lasaña Boloñesa)...
+[2025-10-22 23:21:44] ✅ Cocinero 5 ha completado Pedido-2 (Huevos Rotos con Jamón)
+[2025-10-22 23:21:44] [Cocinero 5] recibe Pedido-9 (Pulpo a la Gallega)
+[2025-10-22 23:21:44] [Cocinero 5] está preparando Pedido-9 (Pulpo a la Gallega)...
+[2025-10-22 23:21:44] ✅ Cocinero 2 ha completado Pedido-5 (Burritos de Ternera)
+[2025-10-22 23:21:48] ✅ Cocinero 4 ha completado Pedido-7 (Lasaña Boloñesa)
+[2025-10-22 23:21:49] ✅ Cocinero 5 ha completado Pedido-9 (Pulpo a la Gallega)
+[2025-10-22 23:21:50] ✅ Cocinero 3 ha completado Pedido-6 (Pizza Barbacoa)
+[2025-10-22 23:21:51] ✅ Cocinero 1 ha completado Pedido-8 (Lasaña Boloñesa)
